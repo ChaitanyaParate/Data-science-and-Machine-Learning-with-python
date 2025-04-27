@@ -10,8 +10,8 @@ This project focuses on classifying breast cancer tumors as **malignant** or **b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/breast-cancer-classification.git
-   cd breast-cancer-classification
+   git clone https://github.com/ChaitanyaParate/Data-science-and-Machine-Learning-with-python.git
+   cd Data-science-and-Machine-Learning-with-python/Breast_Cancer_Prediction
    ```
 
 2. Install dependencies:
@@ -49,7 +49,7 @@ This project focuses on classifying breast cancer tumors as **malignant** or **b
 
 ## 📈 Results
 
-The models achieve high accuracy on the dataset, with RandomForestClassifier and KNN showing strong performance for tumor classification.
+The models achieve high accuracy on the dataset, with RandomForestClassifier and KNN showing strong performance for cancer classification.
 
 ## 📄 Dataset
 
