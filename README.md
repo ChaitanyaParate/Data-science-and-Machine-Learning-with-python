@@ -1,6 +1,6 @@
 # Breast Cancer Classification
 
-This project focuses on classifying breast cancer tumors as **malignant** or **benign** using machine learning algorithms. It uses standard datasets and popular models to achieve accurate predictions.
+This project focuses on classifying breast cancer patients if they will **survive** or **not** using machine learning algorithms. It uses standard datasets and popular models to achieve accurate predictions.
 
 ## 📂 Project Structure
 
